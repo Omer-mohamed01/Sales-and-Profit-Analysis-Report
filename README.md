@@ -56,9 +56,9 @@ Deep discounts significantly reduce profit.
 </br>
 Slower shipping speeds tend to yield better profitability.
 </br>
-![](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis/blob/16dab1253fc05c436aba562428730ee514ceeb40/Charts/Sum%20of%20Trips%20Casual%20vs%20Annual.png)
+![](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/fa9f1a6b377e3a175aaec7a01d13a3c3a05821bb/Charts/Average%20Profit%20Margin%20Category.png)
 </br>
-![](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis/blob/16dab1253fc05c436aba562428730ee514ceeb40/Charts/Average%20Ride%20Length%20Day%20of%20Week.png)
+![](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/fa9f1a6b377e3a175aaec7a01d13a3c3a05821bb/Charts/Monthy%20Profit%20Trend.png)
 
 ## 💡 Recommendations
 Focus marketing on high-performing products and regions.
