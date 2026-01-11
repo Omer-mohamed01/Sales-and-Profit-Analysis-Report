@@ -93,7 +93,6 @@ LICENSE
 </br>
 ├── Presentation |
    └── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Document/Superstore%20Sales%20%26%20Profit%20Analysis%20Presentation.pdf">Superstore Sales & Profit Analysis.pdf</a>
-   ── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Document/Superstore%20Sales%20%26%20Profit%20Analysis%20Presentation.pptx">Superstore Sales & Profit Analysis.pptx</a>
 </br>
 └── Images |
     </br>
