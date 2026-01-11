@@ -72,6 +72,37 @@ Develop promotional plans during high-profit months.
 ## 🧠 Outcome
 This analysis provides data-driven insights for Superstore marketing strategy, emphasizing what are the potential areas for marketing focus to boost sales and profit.
 
+
+## 🗂️ Project Structure
+
+
+Superstore Sales & Profit Analysis
+</br>
+README.md
+</br>
+LICENSE
+</br>
+├── Data |
+    └──<a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Data%20Source/Sample%20-%20Superstore.csv">Data Source.csv</a>
+    </br>
+├── Link |
+    └──<a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Data%20Source/Data%20Source%20Link.txt">Data Source Link.txt</a>
+</br>
+├── Excel |
+  └──<a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Data%20Cleaning/Superstore.xlsx">Data Cleaning.xlsx</a>
+</br>
+├── Presentation |
+   └── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Document/Superstore%20Sales%20%26%20Profit%20Analysis%20Presentation.pdf">Superstore Sales & Profit Analysis.pdf</a>
+   ── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Document/Superstore%20Sales%20%26%20Profit%20Analysis%20Presentation.pptx">Superstore Sales & Profit Analysis.pptx</a>
+</br>
+└── Images |
+    </br>
+    └── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Charts/Monthy%20Profit%20Trend.png">Monthy Profit Trend.png</a>
+    </br>
+    └── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Charts/Top%205%20Products%20Profits.png">Top 5 Products Profits.png</a>
+    </br>
+    └── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Charts/How%20Discounts%20Affect%20Profit.png">How Discounts Affect Profit.png</a>
+
 ---
 
 ## 🧠 Explanation
