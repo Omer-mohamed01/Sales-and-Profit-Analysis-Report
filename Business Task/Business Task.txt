@@ -1,0 +1,27 @@
+1. The Profitability "Leaky Bucket"
+1-Which products are losing us money? Identify the sub-categories where the average profit margin is negative.
+2-Is our discount strategy failing? Find the specific threshold (e.g., is it 20%? 40%?)
+where discounts stop driving volume and start destroying profit.
+3-Are certain regions "expensive" to serve? Compare profit margins across different States and Cities
+to see if shipping or local costs are eating our returns.
+
+2. Operational Efficiency
+1-Are we meeting our shipping promises? Calculate the average Ship Days vs. Shipping Speed
+to see if "Standard Class" is actually meeting its targets.
+2-Where are the shipping bottlenecks? Which Regions or States have the longest delay
+between the Order Date and the Ship Date?
+3-Does shipping delay impact future sales? Analyze if customers who experience higher Ship Days
+are less likely to place a second order.
+
+3. Customer & Product Strategy
+1-Who are our most valuable customers? Beyond just total sales, which customers have the highest
+lifetime profit margin?
+2-Which product categories are "Volume Drivers" vs. "Profit Drivers"? For example, does Technology bring in
+the most cash while Office Supplies bring in the most consistent profit?
+4-Is there a "Basket Analysis" opportunity? Do customers who buy "Furniture" (like the bookcase in your data)
+typically buy specific "Office Supplies" in the same order?
+
+4. Growth & Seasonality
+1-What is our "Peak" season performance? Using the Month and Quarter columns, identify exactly
+when the workload spikes and if profit margins hold steady during those busy times.
+2-Which segments are growing? Compare Year-over-Year (YoY) performance for the "Consumer" vs. "Corporate" segments.
