@@ -1,4 +1,4 @@
-<img width="2147" height="67" alt="image" src="https://github.com/user-attachments/assets/a7e25bbb-a380-40c4-b0af-f98a6b921ad3" /># 🛒 Superstore Sales & Profit Analysis
+# 🛒 Superstore Sales & Profit Analysis
 Designed to transform the Superstore dataset into actionable business intelligence. It provides an end-to-end view of organizational health, moving from high-level executive KPIs to granular customer and product-level insights.
 
 ## Data Used
@@ -58,9 +58,9 @@ Top-Tier Customer Value: A elite group of "Champion" customers, including Tamara
 </br>
 Logistics Bottlenecks: Analysis of Avg Ship Days identifies specific regions where shipping speed is currently a bottleneck, potentially impacting customer retention.
 </br>
-![](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/fa9f1a6b377e3a175aaec7a01d13a3c3a05821bb/Charts/Average%20Profit%20Margin%20Category.png)
+![](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/5ae38ade9492e5706426ff03e16b3ee2041e10da/Charts/Total%20Orders%20of%20Sub-Category%20Vs.%20Avg%20Ship%20Days.png)
 </br>
-![](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/fa9f1a6b377e3a175aaec7a01d13a3c3a05821bb/Charts/Monthy%20Profit%20Trend.png)
+![](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/5ae38ade9492e5706426ff03e16b3ee2041e10da/Charts/Total%20Sales%20By%20Time.png)
 
 ## 💡 Recommendations
 Product Bundling Strategy
@@ -101,7 +101,7 @@ LICENSE
 ├── Presentation |
    └── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/blob/aa0ca39b9950b287cff219cb2016daf3d6326e37/Document/Superstore%20Sales%20%26%20Profit%20Analysis%20Presentation.pdf">Superstore Sales & Profit Analysis.pdf</a>
 </br>
-├── Charts |
+├── Images |
    └── <a href="https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report/tree/5ae38ade9492e5706426ff03e16b3ee2041e10da/Charts">Charts.png</a>
 
 ---
